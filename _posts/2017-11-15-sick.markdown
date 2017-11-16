@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "I'm sick"
+date:   2017-11-15 08:12:41 -0800
+categories: learning
+---
+
+I took PTO because I'm sick. I lay in the bed and watch jekyll tutorial. Why I start learning jekyll? I came across github feature of hosting you own blog. It's appealing idea to manage blog posts in github repository.
+You can review the posts before putting them to he blog. So I hear first about jekyll. 
